@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:layout_weight="1"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/m_left_right"
+                android:layout_marginRight="@dimen/m_left_right"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="24dp"
+                android:textColor="@color/uiColor"
+                android:textStyle="bold"
+                android:text="Sign in to your \nAccount" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/m_left_right"
+                android:layout_marginRight="@dimen/m_left_right"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:text="Email ID" />
+
+
+                <EditText
+                    android:id="@+id/inEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/person"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:hint="Enter email id" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:text="Password" />
+
+
+                <EditText
+                    android:id="@+id/inPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/lock"
+                    android:textSize="18dp"
+                    android:inputType="textPassword"
+                    android:password="true"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:hint="Enter password" />
+
+                <TextView
+                    android:id="@+id/forgotPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:textSize="18dp"
+                    android:textColor="@color/uiColor"
+                    android:text="Forgot Password ?" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/m_left_right"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Login with" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/m_left_right"
+
+                android:orientation="vertical">
+
+                <com.facebook.login.widget.LoginButton
+                    android:id="@+id/facebook_login_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginBottom="5dp" />
+
+                <com.google.android.gms.common.SignInButton
+                    android:id="@+id/googleSignIn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="@dimen/m_left_right"
+                android:layout_marginTop="@dimen/m_left_right"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:text="Don't have an account?" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textColor="@color/uiColor"
+                    android:textSize="18dp"
+                    android:text=" Register Now" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

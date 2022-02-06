@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/button_ui.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/header_signup_in.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/signinup_btn_ui.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/activity_login_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/signin_ui.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/signup_ui.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/temp_ui.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

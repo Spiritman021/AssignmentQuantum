@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380569923397",
+    "project_id": "assignment-quantum",
+    "storage_bucket": "assignment-quantum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380569923397:android:b0c273f68f18c5cd9e582c",
+        "android_client_info": {
+          "package_name": "com.tworoot2.assignmentquantum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380569923397-91upt516d38m67qbbrpejop0u7v9kukn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tworoot2.assignmentquantum",
+            "certificate_hash": "a69b78dd8ab7c379d5b195ed91e34ad37dda6fe2"
+          }
+        },
+        {
+          "client_id": "380569923397-d98come2ahavki5k18be3i8cnsu674aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuVnsQFZC-VlR_YV5yLJduddwtNUDpNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380569923397-d98come2ahavki5k18be3i8cnsu674aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
