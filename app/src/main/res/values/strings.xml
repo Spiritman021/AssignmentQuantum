@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">Assignment Quantum</string>
 
-    <string name="facebook_app_id">place your own</string>
-    <string name="fb_login_protocol_scheme">place your own</string>
-    <string name="facebook_client_token">place your own</string>
-<!--    <string name="default_web_client_id" />-->
+<!--    <string name="facebook_app_id">place your own</string>-->
+<!--    <string name="fb_login_protocol_scheme">place your own</string>-->
+<!--    <string name="facebook_client_token">place your own</string>-->
+<!--&lt;!&ndash;    <string name="default_web_client_id" />&ndash;&gt;-->
+
+    <string name="facebook_app_id">2109090542600395</string>
+    <string name="fb_login_protocol_scheme">fb2109090542600395</string>
+    <string name="facebook_client_token">7e33ec60c47788c9ae5415d6f55b6c9c</string>
+    <string name="nav_open">Open Nav</string>
+    <string name="nav_close">Close Nav</string>
 
 </resources>

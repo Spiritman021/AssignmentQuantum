@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="m_left_right">20dp</dimen>
+    <dimen name="imageSizeCategory">70dp</dimen>
+    <dimen name="textSizeCategory">14dp</dimen>
 </resources>

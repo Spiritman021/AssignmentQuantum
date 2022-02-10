@@ -3,14 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/artandcraft.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/bg_overlay.xml" value="0.2421875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/button_ui.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/category_bc.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/edit_ui.xml" value="0.2421875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/header_signup_in.xml" value="0.2421875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/logout.xml" value="0.2421875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/drawable/signinup_btn_ui.xml" value="0.2421875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/activity_login_sign_up.xml" value="0.264" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/best_sellers.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/category.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/custom_slider.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/image_slider.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/nav_header_main.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/posters.xml" value="0.221875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/signin_ui.xml" value="0.221875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/signup_ui.xml" value="0.221875" />
         <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/layout/temp_ui.xml" value="0.221875" />
+        <entry key="..\:/Users/Vishal Anand/Desktop/Vishal's AP/Android Studio Data/AssignmentQuantum/app/src/main/res/menu/navigation_menu.xml" value="0.221875" />
       </map>
     </option>
   </component>
